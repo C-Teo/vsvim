@@ -63,6 +63,16 @@ A quick reference guide for using Vim keybindings in Visual Studio Code via the 
 - `zO` — Open all folds
 - `zR` — Open folds recursively
 
+## 📑 Tabs
+
+- `gt` — Go to the next tab
+- `gT` — Go to the previous tab
+
+## 🔍 Navigation
+
+- `gd` — Go to definition of symbol under cursor (e.g. function, variable)
+  💡 This works when using a LSP
+
 ## 📜 Scrolling
 
 - `Ctrl + u` — Scroll up half a screen
